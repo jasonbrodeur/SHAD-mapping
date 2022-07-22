@@ -17,6 +17,7 @@ By the end of today's workshop, you should be able to:
 - Use GIS software to perform spatial analyses and create static and web maps.  
 
 ## Today's schedule
+
 |Time|Activity|
 |:---|:---|
 |9:00 - 9:40|Introduction|
