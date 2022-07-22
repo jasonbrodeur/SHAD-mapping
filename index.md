@@ -1,11 +1,11 @@
 ---
 layout: home
 title: Home
-description: SHAD 2022 Crowdsourcing & GIS
+description: SHAD 2022 Mapping Sustainability
 nav_order: 1
 ---
 
-# Welcome to your SHAD 2022 Crowdsoucing & GIS workshop
+# Welcome to your SHAD 2022 Mapping Sustainability workshop
 
 Hello! During today's workshop, you'll work with your fellow SHADs to gather, synthesize, and spatially analyze data that will help answer the question: ***How do we encourage the use of McMaster’s outdoor spaces?*** Throughout today, we'll explore this questions and its connection to the concept of sustainability.
 
