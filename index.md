@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-description: SHAD 2022 Crowdsourcing & GIS
+description: SHAD 2022 Crowdsourcing \& GIS
 nav_order: 1
 ---
 
