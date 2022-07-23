@@ -18,4 +18,4 @@ In this workshop, we will work with QGIS **Version 3.22** (please note the versi
 ## 2. Sign up for a GitHub account
 Go to [https://github.com/](https://github.com/) and sign up for an account. Sign into your account prior to the workshop.
 
-**All done?** Move onto the [first lesson](intro-to-GIS).
+**All done?** Move on to the [first lesson](intro-to-GIS).
