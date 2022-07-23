@@ -39,6 +39,6 @@ In this lesson, you will learn how to create and publish a webmap using QGIS and
 	- Set ```Branch:main``` and use ```/ (root)```. Click "Save". 
 	- Make a note of the url for your new website. 
 	- Click on the new url to open it in a new window. **NOTE**: it will take a few minutes for your website to be ready--you'll need to refresh a few times. 
-<img src="make-github-pages.png" alt="GitHub GitHub Pages interface" width="700" style="border: 1px solid darkgrey">
+<img src="make-github-pages.png" alt="GitHub Pages interface" width="700" style="border: 1px solid darkgrey">
 	
 That's it!!! There is a lot more to learn about and experiment with, of course. Hopefully, these lessons give you an initial sense of the ways in which GIS software can be used to show geospatial characteristics and relationships. 
