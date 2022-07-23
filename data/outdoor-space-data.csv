@@ -1,0 +1,100 @@
+FID,Location ID,Short Description,Soil Quality,Accessibility,Topography,Access to Water,Plot Size,Sunlight,Latitude,Longitude,Suitability Score
+0,01-01,"Front of the field, with a small stump, and root system",4,1,1,1,5,3,43.265907,-79.913786,63.75
+1,01-02,Middle of the field across from the Ivor Wynne Athletic Centre,4,1,1,1,5,3,43.264797,-79.913775,63.75
+2,01-03,End of the field ,4,1,2,1,5,2,43.264172,-79.914387,57.5
+3,02-01,Near Mona Campbell Track,2.5,1,1,0,1.5,2,43.267638,-79.916255,35
+4,02-02,Near Les Prince Hall,3,1,1.5,1,2,2,43.267839,-79.91636,48.75
+5,03-01,Across Private road; near Edward Hall,3,1,1,1,5,3,43.264459,-79.918977,61.25
+6,03-02,Across the path from the indigenous circle,4,1,3,1,3,3,43.264467,-79.91946,53.75
+7,03-03,South west of indigenous Circle,4,1,2,1,2,2,43.26444,-79.919683,50
+8,03-04,In the forest; behind the indigenous circle (NW),5,0,3,0,5,2,43.264673,-79.919745,35
+9,03-05,East of the indigenous circle ,4,0,3,1,2,1,43.264598,-79.919462,33.75
+10,03-06,Behind Whidden Hall (NW),4,1,2,1,5,2,43.265083,-79.919938,57.5
+11,03-07,(NE) Behind Whidden Hall,4,1,2,1,5,2,43.265333,-79.919798,57.5
+12,03-08,Behind Mac Recycles of Centro,5,1,1,1,5,3,43.265618,-79.919933,66.25
+13,03-09,Chegwin Trail (left),3,0,1,1,3,2,43.266152,-79.919947,42.5
+14,03-10,Front Left of Hedding Hall Entrance,2,1,1,1,2,3,43.266148,-79.918291,51.25
+15,03-11,In front of Campus Lot G,3,0,1,1,2,2,43.266158,-79.917705,40
+16,03-12,Next to EGH stadium sign,3,1,1,0,2,3,43.264849,-79.917684,41.25
+17,03-13,In front of Chegwin Trail,3,1,2,1,3,3,43.265984,-79.919442,53.75
+18,03-14,Next to Samon Hall,4,1,2,1,3,3,43.264599,-79.918262,56.25
+19,03-15,Behind Hedden Hall (left),2,1,1,1,2,2,43.266861,-79.917841,47.5
+20,04-01,"Beside parking lot, corner of Forsyth and Sterling",3.5,1,2,0,3,2,43.262645,-79.917107,38.75
+21,04-02,Patch between roads in front of Wilsons Building,4,0,1,0,2,2,43.263028,-79.917193,30
+22,04-03,Side of parking lot across from Wilson Building,3.5,0,1,0,1,3,43.262735,-79.917224,30
+23,04-04,Front of Library (left side),4,1,1,1,1,1,43.262735,-79.917224,46.25
+24,04-05,Front of Library (right side),3,1,2,1,2,1,43.26252,-79.917203,43.75
+25,04-06,Beside Student Centre,1,0,2,1,3.5,1,43.26345,-79.917086,32.5
+26,05-01,In front of Robin Memorial Theatre,3.5,1,1,1,2,2,43.2638843,-79.9174918,51.25
+27,05-02,North Entrance Student Center,3,1,1,1,2.5,1.5,43.2639368,-79.9179438,49.375
+28,05-03,Behind Student Center,3,1,1,0,2.5,1.5,43.2637517,-79.9181158,36.875
+29,05-04,In front of CN hall,1.5,1,1,0,2,3,43.2640239,-79.9188222,37.5
+30,05-05,By the Campus Store Entrance,2.5,1,1,0,2.5,1,43.2635417,-79.9187116,33.75
+31,05-06,In front of Togo Salmon Hall,2,1,1,0,2,3,43.2645911,-79.9182418,38.75
+32,06-01,In front of the university club,4,1,1,1,2,3,43.263395,-79.919754,56.25
+33,06-02,Behind University Hall,3,1,1,1,4,2,43.263704,-79.919365,55
+34,06-03,Beside the university club,3,1,2,1,5,3,43.263913,-79.920097,58.75
+35,06-04,Behind the Greenhouse,4,1,3,1,4,2,43.263159,-79.920642,52.5
+36,06-05,In between the Halls,3,0,1,1,2,2,43.263008,-79.92201,40
+37,06-06,On the side of Hamilton Hall,4,1,1,1,3,2,43.263062,-79.919732,55
+38,06-07,Behind University Hall,4,1,2,1,3,3,43.263301,-79.9193,56.25
+39,06-08,Beside Edward Hall,3,1,1,1,3,2,43.264196,-79.919259,52.5
+40,06-09,Behind University Club,4,1,1,1,4,1,43.2642,-79.919557,53.75
+41,07-01,back of life sci building,3,1,2,1,3,3,43.26126171,-79.918536,53.75
+42,07-02,between hospital and MDCL,2,1,1,1,2,1,43.260854,-79.917479,43.75
+43,07-03,King's Walk,3,1,3,1,2,1,43.260643,-79.916202,41.25
+44,07-04,L.R. Wilson Building Front (Vertical system),3,1,1,1,3,2,43.261556,-79.916934,52.5
+45,07-05,Front of LR Wilson Hall,4,1,1,1,4,2,43.261963,-79.916279,57.5
+46,08-01,Front of hospital,3,1,1,1,2,2,43.260129,-79.918865,50
+47,08-02,Front of Psychology,1,1,2,1,1,1,43.259918,-79.919313,36.25
+48,08-03,Behind Psychology ,2,1,2,1,3,2,43.25939,-79.919579,47.5
+49,08-04,Next to T13,2,1,2,1,3,2,43.258702,-79.919226,47.5
+50,08-05,Hospital main entrance,0,1,3,1,2,2,43.258714,-79.918474,37.5
+51,08-06,Edge of Campus ,3,1,2,1,2,3,43.258303,-79.918788,51.25
+52,08-07,Front of parking garage,4,1,2,1,1,2.5,43.258463,-79.918115,49.375
+53,08-08,Side of Hospital ,2,1,3,1,3,1,43.259823,-79.918819,41.25
+55,08-10,Between Psychology and T13,3,1,2,1,0,2,43.259478,-79.91924,42.5
+56,08-11,Behind hospital,0,1,1,1,0,1,43.26057,-79.918509,33.75
+57,08-12,Along hospital side,4,1,1,1,0,2,43.260521,-79.917518,47.5
+58,08-13,Further along hospital side,2,1,1,1,2,1,43.260535,-79.916702,43.75
+59,08-14,Edge of Street,3,1,2,1,1,2,43.260406,-79.916099,45
+60,08-15,Corner hospital,3,1,1,1,4,2,43.259607,-79.916105,55
+61,09-01,Betwee BSB and JH,5,1,1,0,4,3,43.261728,-79.919114,51.25
+62,09-02,Left backside of BSB,3,1,1,1,3,3,43.261706,-79.919984,56.25
+63,09-03,Front right side of BSB,5,1,1,1,4,2.5,43.261237,-79.919758,61.875
+64,09-04,Front centre of JHE,5,1,1,1,5,2.5,43.260971,-79.919036,64.375
+65,09-05,left frontside of JHE,5,1,1,1,3,2.5,43.260549,-79.919664,59.375
+66,09-06,Directly outside JHE,5,1,1,1,1,1,43.261097,-79.920002,48.75
+67,09-07,Between the sides of BSB and JHE,3,1,2,1,1,2,43.261619,-79.920421,45
+68,09-08,Space along the backside of BSB,3,0,2,1,3,1.5,43.26209,-79.920539,38.125
+69,09-09,Frontish left in reference to BSB,5,1,1,1,5,2.5,43.262635,-79.919164,64.375
+70,10-01,IAHS Northeast Corner,5,1,2,1,2,2,43.259966,-79.920094,52.5
+71,10-02,Inside IAHS,0,1,1,1,0,1,43.259704,-79.920364,33.75
+72,10-03,IAHS Courtyard,5,1,1,1,5,2,43.259578,-79.920537,62.5
+73,10-04,Centre of North Parking Lot,1,1,1,0,0,3,43.259442,-79.922147,31.25
+74,10-05,West of North Parking Lot (Perimiter) ,3,0,3,0,4,3,43.259852,-79.922769,31.25
+75,10-06,West of South Parking Lot (Perimiter) ,3,0,3,0,4,3,43.258841,-79.922719,31.25
+76,10-07,Centre of South Parking Lot,2,1,1,0,2,3,43.258655,-79.922008,38.75
+77,10-08,South of ITB Building,3,1,1,0,3,2,43.258168,-79.921264,40
+78,10-09,ITB Courtyard,4,1,1,0,2,2,43.258574,-79.920893,40
+79,10-10,ITB Tree Place,2,1,1,0,2,2,43.258325,-79.920541,35
+80,10-11,ITB Southwest corner,4,1,2,1,3,2,43.25804,-79.920135,52.5
+81,10-12,ITB East Side,3,1,1,0,3,3,43.258658,-79.920394,43.75
+82,10-13,Tree Circle,3,1,1,0,3,3,43.259067,-79.920189,43.75
+83,10-14,North Parking & LAHS Courtyard Border,4,1,1,1,4,3,43.2594,-79.921403,61.25
+84,11-01,,5,1,1,1,2,2,43.262537,-79.92101,55
+85,11-02,"In Front of Keyes Res, Roundabout",3,0,1.5,0,1,,43.262478,-79.921902,16.25
+86,11-03,,2,0,1,1,5,1,43.15394,-79.55176,41.25
+87,11-04,,4,1,3,0,4,2,43.261299,-79.922976,40
+88,11-05,,3,1,2,1,5,2,43.260743,-79.922818,55
+89,11-06,Behind Arthur Building,3,1,2,1,3,1,43.260692,-79.922356,46.25
+90,11-07,Beside parking lot,3,1,1,1,4,2,43.260271,-79.922678,55
+91,11-08,Edge of road beside Coutts Dr.,5,1,1,0,5,3,43.260257,-79.923105,53.75
+92,11-09,Garden behind Arthur Building,5,1,3,1,4,2,43.260207,-79.921267,55
+93,12-01,End of Keyes Res.,4,0,1,1,3,2,43.263283,-79.923111,45
+94,12-02,Across Keyes Res.,3,0,1,0,4,3,43.262888,-79.923524,36.25
+95,12-03,Infront of Bates Res.,3,0,2,1,5,2,43.263929,-79.922587,45
+96,12-04,Next to Bates,2,1,1,0,5,1,43.264547,-79.923274,38.75
+97,12-05,Behind Bates Res.,2,1,1,1,3,2,43.264311,-79.922454,50
+98,12-06,Next Alumni House,3,1,1,0,3,2,43.264595,-79.923395,40
+99,12-07,Infront of Alumni House,3,1,1,1,2,2,43.264901,-79.922825,50
