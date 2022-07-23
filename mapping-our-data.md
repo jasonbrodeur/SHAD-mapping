@@ -6,7 +6,7 @@ nav_order: 4
 
 *Before starting this section, make sure you've completed all tasks in the [Preparation](preparation) page and completed [lesson 1: Intro to GIS](intro-to-GIS).*
 
-# Introduction 
+# Lesson 2: Mapping our data 
 In this lesson, you will build on the skills gaimed during [lesson 1], to create a map that shows the outcome of our outdoor spaces assesment. 
 
 ## Task 0: Download our data set

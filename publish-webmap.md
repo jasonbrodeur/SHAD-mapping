@@ -6,7 +6,7 @@ nav_order: 5
 
 *Before starting this section, make sure you've completed all tasks in the [Preparation](preparation) page and completed [lesson 1: Intro to GIS](intro-to-GIS) and [lesson 2: Mapping our data](mapping-our-data).*
 
-# Introduction 
+Lesson 3: Publishing a webmap 
 In this lesson, you will learn how to create and publish a webmap using QGIS and GitHub! This process will come in handy if you ever want to share your work as interactive web maps. There are two parts of this process: 
 1. Use QGIS to export your map to a webmap 
 2. Use GitHub to create a website that will host your files. 
