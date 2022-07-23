@@ -4,6 +4,8 @@ title: Mapping our data
 nav_order: 4
 ---
 
+**FIND THIS WEBSITE AT https://bit.ly/shad-mapping**
+
 *Before starting this section, make sure you've completed all tasks in the [Preparation](preparation) page and completed [lesson 1: Intro to GIS](intro-to-GIS).*
 
 # Lesson 2: Mapping our data 
