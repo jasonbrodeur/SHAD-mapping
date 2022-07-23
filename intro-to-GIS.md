@@ -13,7 +13,7 @@ In this first lesson, you will get a quick introduction to the QGIS interface. Q
 In this exercise, we'll learn how to use QGIS by using data that is available from the City of Hamilton [Open Data Portal](https://www.hamilton.ca/city-initiatives/strategies-actions/open-data-program). The open data portal has a wide variety of numeric and geospatial data sets that are free and open to use. Many cities and regions now have similar kinds of open data portals, so be sure to check if you're ever doing analyses on your local area!
 
 To download the data: 
-- Download ```hamilton-data.zip``` from the [workshop GitHub repository](https://github.com/jasonbrodeur/SHAD-2022/blob/main/data/hamilton-data.zip), or click [this link](https://github.com/jasonbrodeur/SHAD-2022/raw/main/data/hamilton-data.zip) to download it directly.
+- Download ```hamilton-data.zip``` from the [workshop GitHub repository](https://github.com/jasonbrodeur/SHAD-2022/blob/main/data/hamilton-data.zip) by clicking [this link](https://github.com/jasonbrodeur/SHAD-2022/raw/main/data/hamilton-data.zip) to download it directly.
 - Download the data into the directory that you want to use for this workshop (i.e. know where you saved the file and use a folder where you can read/write data)
 - **UNZIP THE FILE**. This is very important--otherwise, weird things are going to happen for you.   
 
