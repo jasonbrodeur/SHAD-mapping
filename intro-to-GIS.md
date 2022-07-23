@@ -52,7 +52,8 @@ To download the data:
 	- Note that the labels are now only applied to the major roads. 
 	- Keep this setting, or remove it by reclicking the dropdown and selecting ```Clear```.
 
-## Task 4: Compose your map
+## Task 4: Compose a map
+**Objective**: Create a map of a Hamilton Neighbourhood (of your choice) using some of the data layers provided.
 - Zoom the main data frame to the approximate desired extents for your map.
 - Click on the **New Print Layout** button to open the map creation window. 
 	- Give your map a name when the dialog box comes up. 
