@@ -61,7 +61,7 @@ Choose a web map for your base map (e.g. check out the OSM, Stamen, and CartoDB 
 ## Task 4: Add other layers (if desired)
 - If you would like to augment your map with other data, add Hamilton Open Data layers and style them appropriately. 
 
-## Task 4: Compose your map
+## Task 5: Compose your map
 - Zoom the main data frame to the approximate desired extents for your map.
 - Click on the **New Print Layout** button to open the map creation window. 
 	- Give your map a name when the dialog box comes up. 
@@ -71,7 +71,7 @@ Choose a web map for your base map (e.g. check out the OSM, Stamen, and CartoDB 
 - WIth the map content selected, go to **Item Properties** and add a frame (if desired), a grid, or both.
 - See [this video](http://goo.gl/3yPkme) for some examples of how to style the map.  
 
-## Task 5: Annotate the map 
+## Task 6: Annotate the map 
 - Use **Add New Labels** button to add any desired labels (Use “Item Properties” tab to control font size, colour, background)
 - Use the **Add North Arrow** button to add a North arrow
 	- With the north arrow selected, scale it to the right size
@@ -84,10 +84,10 @@ Choose a web map for your base map (e.g. check out the OSM, Stamen, and CartoDB 
 	- Set units to Meters, and Label to “m” (if not already done for your) 
 	- Select desired number of segments,
 
-## Task 6: Export the map to an image file
+## Task 7: Export the map to an image file
 - In the map composer, use either the **Export as image** or **Export as PDF** buttons to export the map in the desired format to a desired directory. 
 
-## Task 7: Save your project 
+## Task 8: Save your project 
 - Save your project and close the map composer window. Keep your project open in the main QGIS interface.  
 
 **Are you ready for your final challenge?** Head to the [next lesson](publish-webmap) to learn how to create and publish a webmap using QGIS and GitHub!
