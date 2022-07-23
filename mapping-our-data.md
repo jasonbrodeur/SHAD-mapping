@@ -89,3 +89,5 @@ Choose a web map for your base map (e.g. check out the OSM, Stamen, and CartoDB 
 
 ## Task 7: Save your project 
 - Save your project and close the map composer window. Keep your project open in the main QGIS interface.  
+
+**Are you ready for your final challenge?** Head to the [next lesson](publish-webmap) to learn how to create and publish a webmap using QGIS and GitHub!
