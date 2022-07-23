@@ -52,7 +52,33 @@ To download the data:
 	- Note that the labels are now only applied to the major roads. 
 	- Keep this setting, or remove it by reclicking the dropdown and selecting ```Clear```.
 
-## Task 4: Save your project file 
+## Task 4: Compose your map
+- Zoom the main data frame to the approximate desired extents for your map.
+- Click on the **New Print Layout** button to open the map creation window. 
+	- Give your map a name when the dialog box comes up. 
+- In the map composer, add the critical elements of a map: 
+	- Click the **Add new map** button and then draw a box to specify your map’s extent on the page. This will draw the contents of your data frame onto the map. 
+	- Use the **Move Item Content* button to change the extent and zoom. Click “Update Preview” in the “Main Properties” box to regenerate preview.
+- WIth the map content selected, go to **Item Properties** and add a frame (if desired), a grid, or both.
+- See [this video](http://goo.gl/3yPkme) for some examples of how to style the map.  
+
+## Task 5: Annotate the map 
+- Use **Add New Labels** button to add any desired labels (Use “Item Properties” tab to control font size, colour, background)
+- Use the **Add North Arrow** button to add a North arrow
+	- With the north arrow selected, scale it to the right size
+	- Go to ``` > Item Properties``` to select symbol different than the default. 
+- Use the **Add Label** button to add a title. Include the creator name and creation date
+- Use the “Add legend” button to insert a legend, if desired. 
+	- With the legend selected, click the “Item Properties” tab, rename and rearrange the legend items
+- Use the **Add Scale Bar**  tool to insert a scale bar 
+	- Drag the bar to the desired location and size. Edit other details in the **Items Properties** box, if desired.
+	- Set units to Meters, and Label to “m” (if not already done for your) 
+	- Select desired number of segments,
+
+## Task 6: Export the map to an image file
+- In the map composer, use either the **Export as image** or **Export as PDF** buttons to export the map in the desired format to a desired directory. 
+
+## Task 7: Save your project file 
 - Click the **Save** button to save your changes. 
 
 **All done?** Let's move on to your [second lesson](mapping-our-data), where we will map our newly-collected data!
