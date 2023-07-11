@@ -1,4 +1,4 @@
-title: SHAD - Mapping Sustainability
+title: SHAD - Crowdsourcing and Digital Mapping
 subtitle: Putting our data on the map.
 
 remote_theme: scds/just-the-docs
@@ -24,7 +24,7 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "View this content on GitHub"
-gh_edit_repository: "https://github.com/jasonbrodeur/SHAD-2022" #*** ENTER the github URL for your repo
+gh_edit_repository: "https://github.com/jasonbrodeur/SHAD-2023" #*** ENTER the github URL for your repo
 gh_edit_branch: "main" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
