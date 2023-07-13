@@ -35,6 +35,7 @@ In this lesson, you will learn how to create and publish a webmap using QGIS and
 	- You should see your files in your repository as follows:
 	
 <img src="assets/img/repo-upload.png" alt="GitHub repository with files" width="600" style="border: 1px solid darkgrey">
+
 - Turn your repository into a webpage: 
 	- At the repository main page, go to the ```Settings``` tab and then open the ```Pages``` pane. 
 	- Set ```Branch:main``` and use ```/ (root)```. Click "Save". 
