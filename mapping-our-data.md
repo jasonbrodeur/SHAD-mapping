@@ -4,7 +4,7 @@ title: Mapping our data
 nav_order: 4
 ---
 
-**FIND THIS WEBSITE AT https://bit.ly/shad-mapping**
+**FIND THIS WEBSITE AT [bit.ly/shad-mapping-2023](https://bit.ly/shad-mapping-2023)**
 
 *Before starting this section, make sure you've completed all tasks in the [Preparation](preparation) page and completed [lesson 1: Intro to GIS](intro-to-GIS).*
 
@@ -12,7 +12,7 @@ nav_order: 4
 In this lesson, you will build on the skills gaimed during [lesson 1], to create a map that shows the outcome of our outdoor spaces assesment. 
 
 ## Task 0: Download our data set
-- Download our ```outdoor-space-data.csv``` file (as a zip file) using [this link](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/jasonbrodeur/SHAD-2022/blob/main/data/outdoor-space-data.csv). This file is hosted on our [workshop GitHub repository](https://github.com/jasonbrodeur/SHAD-2022/blob/main/data/).
+- Download our ```outdoor-space-data.csv``` file (as a zip file) using [this link](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/jasonbrodeur/SHAD-2023/blob/main/data/outdoor-space-data.csv). This file is hosted on our [workshop GitHub repository](https://github.com/jasonbrodeur/SHAD-2023/blob/main/data/).
 - Download the data into the same working directory as the first exercise. 
 - **UNZIP THE FILE**. This is very important--otherwise, weird things are going to happen for you.   
 
