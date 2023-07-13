@@ -10,9 +10,9 @@ In this workshop, you will work with [QGIS software](https://qgis.org/en/site/) 
 Prior to the workshop, please do the following: 
 
 ## 1. Install QGIS 
-In this workshop, we will work with QGIS **Version 3.22** (please note the version). You can follow installation instructions [here](https://qgis.org/en/site/forusers/download.html), or click the links provided below:
-- [Windows installation file](https://qgis.org/downloads/QGIS-OSGeo4W-3.22.9-2.msi)
-- [macOS installation file](https://qgis.org/downloads/macos/qgis-macos-ltr.dmg)
+In this workshop, we will work with QGIS **Version 3.32** (please note the version). You can follow installation instructions [here](https://qgis.org/en/site/forusers/download.html), or click the links provided below:
+- [Windows installation file](https://qgis.org/downloads/QGIS-OSGeo4W-3.32.0-1.msi)
+- [macOS installation file](https://qgis.org/downloads/macos/qgis-macos-pr.dmg)
 - [Linux installation instructions](https://qgis.org/en/site/forusers/download.html#linux)
 
 ## 2. Sign up for a GitHub account
