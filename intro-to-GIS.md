@@ -4,7 +4,7 @@ title: Intro to GIS
 nav_order: 3
 ---
 
-*Before starting this section, make sure you've completed all tasks in the [Preparation](preparation) page.*
+*Before starting this section, make sure you've completed all tasks on the [Preparation](preparation) page.*
 
 # Lesson 1: Intro to GIS
 In this first lesson, you will get a quick introduction to the QGIS interface. QGIS is the world's most popular open source GIS software. It is incredibly powerful and can do all sorts of interesting visualizations and analyses. The primary challenge with this much functionality is that you have to learn what the buttons do and understand the terminology. We'll work on that here. 
