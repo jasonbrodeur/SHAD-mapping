@@ -6,10 +6,10 @@ nav_order: 4
 
 **FIND THIS WEBSITE AT [bit.ly/shad-mapping-2023](https://bit.ly/shad-mapping-2023)**
 
-*Before starting this section, make sure you've completed all tasks in the [Preparation](preparation) page and completed [lesson 1: Intro to GIS](intro-to-GIS).*
+*Before starting this section, make sure you've completed all tasks in the [Preparation](preparation) page and completed [Lesson 1: Intro to GIS](intro-to-GIS).*
 
 # Lesson 2: Mapping our data 
-In this lesson, you will build on the skills gaimed during [lesson 1], to create a map that shows the outcome of our outdoor spaces assesment. 
+In this lesson, you will build on the skills gained during [lesson 1], to create a map that shows the outcome of our outdoor spaces assessment. 
 
 ## Task 0: Download our data set
 - Download our ```outdoor-space-data.csv``` file (as a zip file) using [this link](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/jasonbrodeur/SHAD-2023/blob/main/data/outdoor-space-data.csv). This file is hosted on our [workshop GitHub repository](https://github.com/jasonbrodeur/SHAD-2023/blob/main/data/).
@@ -22,10 +22,10 @@ In this lesson, you will build on the skills gaimed during [lesson 1], to create
 	- As an open-source project QGIS has a lot of community-contributed Plugins that extend its functionality. Over time, many of these plugins find their way into the core software.
 - Install the QuickMapServices plugin:
 	- In the top menu bar, click on ```Plugins > Manage and Install Plugins```.
-	- In the Plugins dialog box, search for and install the **QuickMapServices** plugin. 
-<img src="assets/img/quickmap-plugin.png" alt="QGIS Plugin window" width="500" style="border: 1px solid darkgrey">
+	- In the Plugins dialogue box, search for and install the **QuickMapServices** plugin. 
+	- <img src="assets/img/quickmap-plugin.png" alt="QGIS Plugin window" width="500" style="border: 1px solid darkgrey">
 	- To allow us to add additional web layers, on the top menu, click ```Web > QuickMapServices > Settings```. Go to the **More Services** tab and click **Get contributed pack**. Close the window.
-<img src="assets/img/get-contributed-pack.png" alt="QMS settings dialog box" width="300" style="border: 1px solid darkgrey">
+	- <img src="assets/img/get-contributed-pack.png" alt="QMS settings dialog box" width="300" style="border: 1px solid darkgrey">
 	- While the Plugin window is open, also install the **qgis2web** plugin.
 	- Once the plugins are installed, close the plugins window.
 - Add a web base map to your data frame: 
@@ -45,16 +45,16 @@ Choose a web map for your base map (e.g. check out the OSM, Stamen, and CartoDB 
 - Our survey points should now show on the map in the expected locations (i.e. McMaster University).
 <img src="assets/img/outdoor-space-data-loaded.png" alt="QGIS interface with point data loaded" width="700" style="border: 1px solid darkgrey">
 
-## Task 3: Stylize symbols to communicate suitability score and size of plot
+## Task 3: Stylize symbols to communicate the suitability score and size of the plot
 - Ensure that the ```outdoor-space-data``` layer is above your web map in the **Layer panel**.
 - Right click the ```outdoor-space-data``` layer and select ```Properties```. Click on the ```Symbology``` tab
 - In the top dropdown menu, change to ```Graduated```
 - In the **Value** dropdown, select a measure of interest (i.e. Suitability Score)
 - In the **Symbol** area, click the current symbol to change it. 
-	- In the symbol dialog box, click the more options icon beside the **Size** setting. 
+	- In the symbol dialogue box, click the more options icon beside the **Size** setting. 
 	- Select ```Edit```. In the Expression box, enter ```"Num Seats" /40``` -- this will scale the size of the marker to the number of seats that are available at the location. 
 	- Click OK
-- Select a Color ramp from the dropdown menu. Be thoughtful with your colour selection: think about what kind of message/sentiment do your selected colours convey? Is it aligned with what you're communicating in your map? 
+- Select a Color ramp from the dropdown menu. Be thoughtful with your colour selection: think about what kind of message/sentiment do your selected colours convey. Is it aligned with what you're communicating in your map? 
 - Click ```Classify``` and observe that 5 classes are created. Click **Apply** to see the changes on the map.
 - Click OK on the Properties box.
 - In the ```Layer Rednering``` box, edit the transparency of this layer so that the webmap beneath shows a bit.
