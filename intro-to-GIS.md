@@ -4,7 +4,7 @@ title: Intro to GIS
 nav_order: 3
 ---
 
-*Before starting this section, make sure you've completed all tasks on the [Preparation](preparation) page.*
+*Before starting this section, make sure you've completed all tasks in the [Preparation](preparation) page.*
 
 # Lesson 1: Intro to GIS
 In this first lesson, you will get a quick introduction to the QGIS interface. QGIS is the world's most popular open source GIS software. It is incredibly powerful and can do all sorts of interesting visualizations and analyses. The primary challenge with this much functionality is that you have to learn what the buttons do and understand the terminology. We'll work on that here. 
@@ -32,49 +32,73 @@ To download the data:
 ## Task 2: Style vector layers 
 **Objective**: Style your vector layers to create a map of a neighbourhood or area of Hamilton. 
 - Add/remove layers from the Open Hamilton Data folder as necessary or desired. Keep ```Street_Centreline``` and ```Buildings```, and be sure to add all other relevant layers. 
-- Move layers up and down in the **Layers panel**, note how it effects the drawing order.
-- Style the layers by navigating to the **Style** tab of the Properties dialog box (double click the layer or right click and select ```Properties```).
-- Follow along with Jay’s instruction on styling vector layers. Then, experiment on your own. 
+- Move layers up and down in the **Layers panel**, note how it affects the drawing order.
+- Style the layers by navigating to the **Style** tab of the Properties dialogue box (double click the layer or right-click and select ```Properties```).
+- Follow Jay’s instructions on styling vector layers. Then, experiment on your own. 
 - See [this YouTube video](https://goo.gl/MEyCrD) and some other videos by Klas Karlsson for ideas on custom vector styling.
 
 ## Task 3: Add labels to layers
-- Select the ```Street_Centreline``` layer and click on the **Layer Labeling Options** button 
+- Select the ```Street_Centreline``` layer and click on the **Layer Labeling Options** button ![QGIS layer button icon](assets/img/label-button.png).
 - In the top dropdown menu, select ```Single Labels```
 - In the ```Value``` dropdown menu, select the ```STREET_NAM``` field. Click **Apply**.
-- Explore the tabs for labeling options
+- Explore the tabs for labelling options
 	- In the **Text** tab, adjust the font type, size, colour (if desired).
 	- If interested, experiment with the options in the **Formatting** tab.
 	- In the **Buffer** tab, check to turn on ```Draw text buffer```.
 	- In the **Rendering** tab, reduce the number of labels on the map by checking ```Merge connected lines to avoid duplicate labels```.
 - Use a rule to more finely control which road labels are shown: 
 	- In the **Rendering** tab, go to the ```Data defined``` section and select the dropdown beside ```Show label```. In the dropdown, select ```Edit```
-	- In the ```Expression``` box, enter: ```ROAD_TYPE like 'Major'```. Click OK.
-	- Note that the labels are now only applied to the major roads. 
-	- Keep this setting, or remove it by reclicking the dropdown and selecting ```Clear```.
+	- <img src="assets/img/data-defined-label1.png" alt="Data-defined label box" width="200">
+  	- In the ```Expression``` box of the **Expression String Builder** window, enter: ```ROAD_TYPE like 'Major'```. Click OK.
+	- <img src="assets/img/data-defined-label2.png" alt="Expression string builder box" width="400">
+  	- Note that the labels are now only applied to major roads. 
+	- Keep this setting, or remove it by re-clicking the dropdown and selecting ```Clear```.
 
-## Task 4: Compose a map
-**Objective**: Create a map of a Hamilton Neighbourhood (of your choice) using some of the data layers provided.
+## Task 4: Identify a Hamilton neighbourhood to map
+**Objective**: Here, you are going to select a neighbourhood of your choice and prepare it for exporting a map. 
+**Note**: If you get behind on the lesson or something goes wrong here, simply skip to Task 5 to catch up. 
+- Add all layers of interest. Ensure that you have added the ```Neighbourhoods``` layer to your map and that it is the topmost layer (drag or move it up).
+- Turn on labels for the ```Neighbourhoods``` layer.
+- Style the ```Neighbourhoods``` layer so that the areas are not filled (outline only). Use a thick border so that you can distinguish their boundaries.
+- Zoom to the approximate extent of your neighbourhood.
+- Select the other layers you would like to show and style them appropriately.
+- Select the polygon that represents your neighbourhood's extent in the ```Neighbourhoods``` layer.
+  - Select the ```Neighbourhoods``` layer in the **Layers** panel and ensure it is highlighted.
+  - From the top toolbar, click on the ```Select Features by Area of Single Click``` button ![QGIS layer button icon](assets/img/select-features.png).
+  - In the map pane, click within the boundaries of your neighbourhood. If you've done this correctly, your neighbourhood should highlight in yellow.
+- Use the ```Difference``` tool to show your neighbourhood and black out the rest
+  - With your neighbourhood selected in the map pane go to ```Vector > Geoprocessing Tools > Difference``` in the top menu.
+  - When the ```Difference``` window appears, enter the following values:
+    - ```Input layer```: ```Neighbourhoods``` (Leave ```Selected features only``` unchecked) 
+    - ```Overlay layer```: ```Neighbourhoods``` (Check ```Selected features only```)
+    - <img src="assets/img/difference.png" alt="Difference dialogue box" width="500">
+    - Click Run. If done correctly, you should have a new layer called ```Difference``` at the top of your Layers list. The ```Difference``` layer should show all areas except your neighbourhood in a solid colour.
+    - Deselect your neighbourhood by clicking the ```Deselect Features from all Layers``` button ![QGIS layer button icon](assets/img/unselect-features.png) from the top toolbar.
+    - Finally, choose a very dark colour (black, dark grey, dark blue, dark purple, etc.) for your ```Difference``` layer. this will help your neighbourhood stand out.
+
+## Task 5: Compose a map of your selected neighbourhood
+**Objective**: Create a map of your chosen Hamilton Neighbourhood.
 - Zoom the main data frame to the approximate desired extents for your map.
 - Click on the **New Print Layout** button to open the map creation window. 
-	- Give your map a name when the dialog box comes up. 
+	- Give your map a name when the dialogue box comes up. 
 - In the map composer, add the critical elements of a map: 
 	- Click the **Add new map** button and then draw a box to specify your map’s extent on the page. This will draw the contents of your data frame onto the map. 
 	- Use the **Move Item Content* button to change the extent and zoom. Click “Update Preview” in the “Main Properties” box to regenerate preview.
-- WIth the map content selected, go to **Item Properties** and add a frame (if desired), a grid, or both.
+- With the map content selected, go to **Item Properties** and add a frame (if desired), a grid, or both.
 - See [this video](http://goo.gl/3yPkme) for some examples of how to style the map.  
 
 ## Task 5: Annotate the map 
-- Use **Add New Labels** button to add any desired labels (Use “Item Properties” tab to control font size, colour, background)
+- Use the **Add New Labels** button to add any desired labels (Use the ```Item Properties``` tab to control font size, colour, and background)
 - Use the **Add North Arrow** button to add a North arrow
 	- With the north arrow selected, scale it to the right size
 	- Go to ``` > Item Properties``` to select symbol different than the default. 
-- Use the **Add Label** button to add a title. Include the creator name and creation date
+- Use the **Add Label** button to add a title. Include the creator's name and creation date
 - Use the “Add legend” button to insert a legend, if desired. 
 	- With the legend selected, click the “Item Properties” tab, rename and rearrange the legend items
 - Use the **Add Scale Bar**  tool to insert a scale bar 
 	- Drag the bar to the desired location and size. Edit other details in the **Items Properties** box, if desired.
-	- Set units to Meters, and Label to “m” (if not already done for your) 
-	- Select desired number of segments,
+	- Set units to Meters, and Label to “m” (if not already done for your map) 
+	- Select the desired number of segments,
 
 ## Task 6: Export the map to an image file
 - In the map composer, use either the **Export as image** or **Export as PDF** buttons to export the map in the desired format to a desired directory. 
