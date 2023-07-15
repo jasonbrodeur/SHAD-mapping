@@ -7,6 +7,8 @@ nav_order: 1
 
 # Welcome to your SHAD 2023 Crowdsourcing and Digital Mapping workshop
 
+SHORTLINK TO THIS SITE: [bit.ly/shad-mapping-2023](https://bit.ly/shad-mapping-2023).
+
 Hello! During today's workshop, you'll work with your fellow SHADs to gather, synthesize, and spatially analyze data that will help answer the question: ***How do we encourage the use of McMaster’s outdoor spaces?*** Throughout today, we'll explore this question and its connection to the concepts of sustainability, accessibility, and community.
 
 ## Learning objectives
