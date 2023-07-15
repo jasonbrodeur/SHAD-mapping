@@ -48,7 +48,7 @@ FID,Group ID,Short Description,Shade?,Wifi available?,Shelter,Facilities / Washr
 46,04-04,Classroom in physical building,1,1,2,1,2,1,52,0,4,43.261830,-79.920060,5.825
 47,04-05,Sitting area in front of physical building entrance,0,1,0,1,3,1,52,2,3,43.262290,-79.91971,4.4375
 48,04-06,Tented sitting area,1,0,1,1,2,1,24,3,1,43.26271,-79.91969,4.075
-49,04-07,Lecture hall in physical science building,1,1,2,1,2,1,375,0,1,43.26237,-79.2012,5.675
+49,04-07,Lecture hall in physical science building,1,1,2,1,2,1,375,0,1,43.26237,-79.92012,5.675
 50,04-08,Community garden of general science / nuclear reactor,0,1,0,1,3,0,0,3,1,43.26248,-79.92087,3.3875
 51,04-09,Nuclear reactor outdoor sitting area,1,1,1,1,3,1,7,0,1,43.26146,-79.92148,5.4875
 52,04-10,Bike racks in front of comunity building,0,1,0,1,3,0,0,2,2,43.2611,-79.91983,3.3875
@@ -60,11 +60,11 @@ FID,Group ID,Short Description,Shade?,Wifi available?,Shelter,Facilities / Washr
 58,05-04,Behind Buttery,0,1,0,1,0,1,10,2,0,43.2844,-79.9195156,4.1
 59,05-05,The Indigenous Circle,1,0,0,1,2,1,35,4,2,43.264445,-79.9195156,3.925
 60,05-06,Buttery Front,1,1,0,1,2,1,19,4,2,43.284625,-79.9192656,5.425
-61,05-07,Behind Hamilton Hall,1,1,0,1,1,1,11,4,1,43.7636375,-79.9201969,5.3125
+61,05-07,Behind Hamilton Hall,1,1,0,1,1,1,11,4,1,43.2636375,-79.9201969,5.3125
 62,05-08,Mattew East,1,1,0,1,4,1,23,3.5,4,43.2631325,-79.110181,5.625
 63,05-09,Mattew Hall Bike Racks,0,1,0,1,1,1,11,4,1,43.2622625,-79.9202919,4.3125
 64,05-10,Front of The Phoenix,0,1,0,1,3,1,9,2,4,43.2629125,-79.9211719,4.4875
-65,05-11,Rudy Heinzl Hall,1,1,0,1,2,1,3,2,2,43.8631875,-79.9201906,5.325
+65,05-11,Rudy Heinzl Hall,1,1,0,1,2,1,3,2,2,43.2631875,-79.9201906,5.325
 66,05-12,Cosford Tree,1,1,0,1,1,1,6,3,3,43.2630625,-79.9196094,5.3625
 67,05-13,Gary Lutton Bench,1,1,0,1,2,1,6,3,4,43.263685,-79.9193501,5.475
 68,05-14,Time Capsule,1,1,0,1,2,1,10,3,4,43.2640875,-79.9193906,5.475
@@ -81,7 +81,7 @@ FID,Group ID,Short Description,Shade?,Wifi available?,Shelter,Facilities / Washr
 79,06-10,Side of Hedden,1,1,2,1,3,0,2,3,4,43.26611894,-79.91884771,5.0375
 80,06-11,Pay Machine in Front of Hedden,1,1,2,1,2,0,0,2,4,43.26620644,-79.91776744,4.925
 81,06-12,Tree by Hedden Hall,1,1,1,0,3,1,3,3,4,43.26613598,-79.91789385,4.2875
-82,06-13,Service Centre,1,1,2,1,4,1,20,1,2,43.1558,-79.557,5.9
+82,06-13,Service Centre,1,1,2,1,4,1,20,1,2,43.26553389,-79.9188096,5.9
 83,06-14,PG Parking Lot,0,1,0,1,1,0,0,0,3,43.26505732,-79.91835094,3.2125
 84,06-15,Whidden Hall,1,1,1,1,4,1,4,2,3,43.26483856,-79.91958475,5.75
 85,07-01,Grassy area in front of McMaster Museum of Art,1,1,2,1,2,1,25,3,4,43.26283,-79.91855,5.975
@@ -95,7 +95,7 @@ FID,Group ID,Short Description,Shade?,Wifi available?,Shelter,Facilities / Washr
 93,07-09,Outside student campus tours,1,1,2,1,3,1,43,3,4,43.26401,-79.91765,6.0375
 94,07-10,Infront of school of buisness,1,1,2,1,2,1,16,2,3,43.26396,-79.91684,5.875
 95,07-11,Behind Musc,1,1,1,1,4,1,8,3,2,43.26375,-79.91204,5.75
-96,07-12,Infront of Main Musc Doors,1,1,2,1,2,1,32,3,2,43.76316,-79.91709,5.875
+96,07-12,Infront of Main Musc Doors,1,1,2,1,2,1,32,3,2,43.26316,-79.91709,5.875
 97,07-13,Beside MMM,1,1,2,1,3,1,4,3,2,43.26946,-79.91729,5.9375
 98,08-01,Centre of Learning Front Door,1,1,2,1,3,1,30,3,4,43.26122,-79.91078,6.0375
 99,08-02,L.R. WIlson Hall Garden,0,1,2,1,4,1,50,2,3,43.26207,-79.91674,5
@@ -110,14 +110,14 @@ FID,Group ID,Short Description,Shade?,Wifi available?,Shelter,Facilities / Washr
 108,09-01,Bench East of Psych Building,0,1,0,1,2,1,4,4,4,43.2600783,-79.918968,4.525
 109,09-02,Picnic Table East of Communications Research lab,1,1,2,0,0,1,8,0,1,43.2543334,-79.9185603,4.05
 110,09-03,Black Bench East of Comm. Research lab,0,1,0,0,1,1,4,1,3,43.2587774,-79.9188561,2.7625
-111,09-04,hospital main entrance,1,1,2,1,3,1,14,0,4,43.259,-79.91769,5.8875
+111,09-04,hospital main entrance,1,1,2,1,3,1,14,0,4,43.25819118,-79.91849029,5.8875
 112,09-05,intersection of Forsyth ave S and Traymore ave,1,1,1,0,3,0,2,3,0,43.25865,-79.91632,3.0875
 113,09-06,intersection of Arnold St. and Forsyth ave,1,0,1,0,2,1,10,2,1,43.25932,-79.91629,2.525
 114,09-07,Intersection of King st. W and for S,1,0,1,0,2,1,12,4,0,43.25965,-79.91608,2.575
 115,09-08,King wall entrance walk,1,1,0,0,1,0,0,3,3,43.26024,-79.916,2.8625
 116,09-09,M deGroote black benches,0,1,0,1,2,1,6,3,4,43.26069,-79.91665,4.475
 117,09-10,Bike racks by Michael de Groote,1,1,0,1,1,0,0,3,4,43.26068,-79.91665,4.4125
-118,09-11,Bike racks by Michael de Groote,1,1,1,1,3,0,0,3,4,43.26054,-79.41722,4.7875
+118,09-11,Bike racks by Michael de Groote,1,1,1,1,3,0,0,3,4,43.26054,-79.91722,4.7875
 119,09-12,Staff picnic benches by the Medical Centre,1,1,1,1,0,1,120,1,4,43.26035,-79.91755,5.5
 120,09-13,LifeSci Bike Rack,0,1,0,1,1,1,4,2,4,43.26066,-79.91834,4.3625
 121,09-14,Health Science Center NW Entrance,0,1,0,1,2,1,4,4,4,43.26035,-79.91851,4.525
@@ -136,7 +136,7 @@ FID,Group ID,Short Description,Shade?,Wifi available?,Shelter,Facilities / Washr
 134,10-12,front of DBAC,1,1,2,1,0,1,8,2,4,43.26472,-79.9165,5.8
 135,10-13,bike rack by DBAC,0,1,2,1,0,0,80,2,4,43.26458,-79.91545,3.8
 136,10-14,park by DBAC,0,1,1,0,3,1,11,3,2,43.26358,-79.91612,3.1875
-137,10-15,Grass outside DBAC,1,1,0,1,2,0,0,4,2,43.26442,-79.1604,4.425
+137,10-15,Grass outside DBAC,1,1,0,1,2,0,0,4,2,43.26442,-79.91604,4.425
 138,11-01,Bench Area,1,1,0,1,3,1,12,4,4,43.26516,-79.91477,5.5875
 139,11-02,permit-only parking,0,1,0,1,2,0,0,1,2,43.26551,-79.9146,3.275
 140,11-03,blue garbage bin,1,1,0,0,2,0,0,3,4,43.26579,-79.9139,2.975
