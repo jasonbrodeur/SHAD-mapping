@@ -30,7 +30,7 @@ In this lesson, you will learn how to create and publish a webmap using QGIS and
 - Upload your webmap files to the repository
 	- Click on the ```<> Code``` tab at the top of the repository.
 	- Click ```Add file > Upload files```
-	- Drag the contents of your leaflet folder (i.e. everything inside of /qgis2web_2022_07_23......) to the upload window. 
+	- Drag the contents of your leaflet folder (i.e. everything inside of /qgis2web_2023_07_15......) to the upload window. 
 	- Once the files have finished loading, scroll to the bottom and click **Commit changes**.
 	- You should see your files in your repository as follows:
 	
