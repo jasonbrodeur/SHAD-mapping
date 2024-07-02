@@ -29,7 +29,7 @@ By the end of today's workshop, you should be able to:
 |11:50 - 13:00|**LUNCH**|
 |13:00 - 13:45|Data entry and cleanup|
 |13:45 - 14:45|Learning QGIS|
-|14:45 - 14:55|**Break**|
+|14:45 - 15:00|**Break & Discussion**|
 |15:00 - 16:00|Creating a map; publishing a webmap|
 
 ## Today's slides
