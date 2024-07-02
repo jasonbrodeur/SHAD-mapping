@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mapping our data
-nav_order: 5
+nav_order: 4
 ---
 
 **FIND THIS WEBSITE AT [bit.ly/shad-mapping-exercise](https://bit.ly/shad-mapping-exercise)**
