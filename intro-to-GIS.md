@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Intro to GIS
-nav_order: 3
+nav_order: 4
 ---
 
 *Before starting this section, make sure you've completed all tasks in the [Preparation](preparation) page.*
