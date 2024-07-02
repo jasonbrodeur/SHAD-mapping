@@ -27,10 +27,10 @@ By the end of today's workshop, you should be able to:
 |10:20 - 10:30|Field work preparation|
 |10:30 - 11:45|Field work|
 |11:50 - 13:00|**LUNCH**|
-|13:00 - 13:30|Data cleanup|
-|13:30 - 14:30|Learning QGIS|
-|14:30 - 14:40|**Break**|
-|14:40 - 15:40|Creating a map; publishing a webmap|
+|13:00 - 13:45|Data entry and cleanup|
+|13:45 - 14:45|Learning QGIS|
+|14:45 - 14:55|**Break**|
+|15:00 - 16:00|Creating a map; publishing a webmap|
 
 ## Today's slides
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRj_EYB6hDDCbUzLnzSUKup0QQlG7H9S9V8dKBWYv69_l-YCYo6yQMRSHtdKFjzUw/embed?start=false&loop=true&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
