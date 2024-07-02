@@ -9,7 +9,7 @@ nav_order: 1
 
 SHORTLINK TO THIS SITE: [bit.ly/shad-mapping-exercise](https://bit.ly/shad-mapping-exercise).
 
-Hello! During today's workshop, you'll work with your fellow SHADs to gather, synthesize, and spatially analyze data that will help answer the question: ***How do we encourage the use of McMaster’s outdoor spaces?*** Throughout today, we'll explore this question and its connection to the concepts of sustainability, accessibility, and community.
+Hello! During today's workshop, you'll work with your fellow SHADs to gather, synthesize, and spatially analyze data that will help answer the question: ***How 'livable' are McMaster's outdoor spaces for McMaster members?*** Throughout today, we'll explore this question and its connection to the concepts of sustainability, accessibility, and community.
 
 ## Learning objectives
 By the end of today's workshop, you should be able to: 
@@ -29,7 +29,7 @@ By the end of today's workshop, you should be able to:
 |11:50 - 13:00|**LUNCH**|
 |13:00 - 13:30|Data cleanup|
 |13:30 - 14:30|Learning QGIS|
-|14:30 - 14:40|**Break***|
+|14:30 - 14:40|**Break**|
 |14:40 - 15:40|Creating a map; publishing a webmap|
 
 ## Today's slides
