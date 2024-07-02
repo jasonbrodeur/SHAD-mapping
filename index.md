@@ -1,13 +1,13 @@
 ---
 layout: home
 title: Home
-description: SHAD 2023 Crowdsourcing and Digital Mapping
+description: SHAD Crowdsourcing and Digital Mapping
 nav_order: 1
 ---
 
-# Welcome to your SHAD 2023 Crowdsourcing and Digital Mapping workshop
+# Welcome to your SHAD Crowdsourcing and Digital Mapping workshop
 
-SHORTLINK TO THIS SITE: [bit.ly/shad-mapping-2023](https://bit.ly/shad-mapping-2023).
+SHORTLINK TO THIS SITE: [bit.ly/shad-mapping-exercise](https://bit.ly/shad-mapping-exercise).
 
 Hello! During today's workshop, you'll work with your fellow SHADs to gather, synthesize, and spatially analyze data that will help answer the question: ***How do we encourage the use of McMaster’s outdoor spaces?*** Throughout today, we'll explore this question and its connection to the concepts of sustainability, accessibility, and community.
 
@@ -22,16 +22,17 @@ By the end of today's workshop, you should be able to:
 
 |Time|Activity|
 |:---|:---|
-|9:00 - 9:40|Introduction|
-|9:40 - 10:00|Field work preparation|
-|10:00 - 11:15|Field work|
-|11:20 - 11:40|Data cleanup|
-|11:40 - 13:00|**LUNCH**|
-|13:00 - 13:40|Learning QGIS|
-|13:40 - 14:20|Sustainability liquid cafe|
-|14:20 - 15:40|Creating a map; publishing a webmap|
+|9:30 - 9:40|Welcome|
+|9:40 - 10:20|Introduction to Sustainability|
+|10:20 - 10:30|Field work preparation|
+|10:30 - 11:45|Field work|
+|11:50 - 13:00|**LUNCH**|
+|13:00 - 13:30|Data cleanup|
+|13:30 - 14:30|Learning QGIS|
+|14:30 - 14:40|**Break***|
+|14:40 - 15:40|Creating a map; publishing a webmap|
 
 ## Today's slides
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRhUXeRFfWTqeMIIYrFVlclHZ-reYxBxam4ShqMWATs8JouF767JMXIWtz84rSeidYPWshgf0wZek2q/embed?start=false&loop=false&delayms=30000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRj_EYB6hDDCbUzLnzSUKup0QQlG7H9S9V8dKBWYv69_l-YCYo6yQMRSHtdKFjzUw/embed?start=false&loop=true&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 **Before we begin**, follow the instructions on the [preparation](preparation) page.
