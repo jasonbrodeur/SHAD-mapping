@@ -4,7 +4,7 @@ title: Mapping our data
 nav_order: 4
 ---
 
-**FIND THIS WEBSITE AT [bit.ly/shad-mapping-2023](https://bit.ly/shad-mapping-2023)**
+**FIND THIS WEBSITE AT [bit.ly/shad-mapping-exercise](https://bit.ly/shad-mapping-exercise)**
 
 *Before starting this section, make sure you've completed all tasks in the [Preparation](preparation) page and completed [Lesson 1: Intro to GIS](intro-to-GIS).*
 
