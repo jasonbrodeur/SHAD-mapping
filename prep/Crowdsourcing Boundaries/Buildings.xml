@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><MD_Metadata xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:xalan="http://xml.apache.org/xalan" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gml="http://www.opengis.net/gml" xmlns="http://www.isotc211.org/2005/gmd">
+    <fileIdentifier>
+        <gco:CharacterString>9b0ccd920ab34810a155b9f21ed1b075</gco:CharacterString>
+    </fileIdentifier>
+    <language gco:nilReason="missing"/>
+    <characterSet>
+        <MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+    </characterSet>
+    <hierarchyLevel>
+        <MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</MD_ScopeCode>
+    </hierarchyLevel>
+    <contact>
+        <CI_ResponsibleParty>
+            <contactInfo gco:nilReason="missing"/>
+            <role>
+                <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="ISOTC211/19115">pointOfContact</CI_RoleCode>
+            </role>
+        </CI_ResponsibleParty>
+    </contact>
+    <dateStamp>
+        <gco:Date>2018-10-17</gco:Date>
+    </dateStamp>
+    <metadataStandardName>
+        <gco:CharacterString>NAP - Metadata</gco:CharacterString>
+    </metadataStandardName>
+    <metadataStandardVersion>
+        <gco:CharacterString>1.2</gco:CharacterString>
+    </metadataStandardVersion>
+    <identificationInfo>
+        <MD_DataIdentification>
+            <citation>
+                <CI_Citation>
+                    <title>
+                        <gco:CharacterString>Buildings</gco:CharacterString>
+                    </title>
+                    <date gco:nilReason="missing"/>
+                    <citedResponsibleParty gco:nilReason="missing"/>
+                </CI_Citation>
+            </citation>
+            <abstract>
+                <gco:CharacterString>Buildings compiled by digitizing the building footprints from aerial photography. Most residential buildings were compiled as &amp;quot;best-fit&amp;quot; rectangles. Smaller units, such as sheds, may not be captured.Data Coordinate System Note:NAD 83 UTM Zone 17NProjection: Transverse MercatorDatum: NAD 83</gco:CharacterString>
+            </abstract>
+            <credit>
+                <gco:CharacterString>City of Hamilton</gco:CharacterString>
+            </credit>
+            <status gco:nilReason="missing"/>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>Buildings</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Infrastructure</gco:CharacterString>
+                    </keyword>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>Buildings</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Infrastructure</gco:CharacterString>
+                    </keyword>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <resourceConstraints>
+                <MD_Constraints>
+                    <useLimitation>
+                        <gco:CharacterString>Open Data Licence Terms and Conditions</gco:CharacterString>
+                    </useLimitation>
+                </MD_Constraints>
+            </resourceConstraints>
+            <language gco:nilReason="missing"/>
+            <characterSet>
+                <MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+            </characterSet>
+        </MD_DataIdentification>
+    </identificationInfo>
+    <distributionInfo>
+        <MD_Distribution>
+            <distributionFormat gco:nilReason="missing"/>
+            <transferOptions>
+                <MD_DigitalTransferOptions>
+                    <onLine>
+                        <CI_OnlineResource>
+                            <linkage>
+                                <URL>https://spatialsolutions.hamilton.ca/webgis/rest/services/OpenData/Spatial_Collection_1/MapServer/8</URL>
+                            </linkage>
+                            <protocol gco:nilReason="missing"/>
+                        </CI_OnlineResource>
+                    </onLine>
+                    <onLine>
+                        <CI_OnlineResource>
+                            <linkage>
+                                <URL>http://spatialsolutions.maps.arcgis.com/sharing/rest/content/items/e374038be0654d60bdc49c958c25ef1e/data</URL>
+                            </linkage>
+                            <protocol gco:nilReason="missing"/>
+                            <name>
+                                <gco:CharacterString>Metadata</gco:CharacterString>
+                            </name>
+                            <description>
+                                <gco:CharacterString>metadata</gco:CharacterString>
+                            </description>
+                            <function>
+                                <CI_OnLineFunctionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download" codeSpace="ISOTC211/19115">download</CI_OnLineFunctionCode>
+                            </function>
+                        </CI_OnlineResource>
+                    </onLine>
+                    <onLine>
+                        <CI_OnlineResource>
+                            <linkage>
+                                <URL>https://www.arcgis.com/sharing/rest/content/items/0cbae85afb8d4fc4b4ff9c9837dc0dbc/data</URL>
+                            </linkage>
+                            <protocol gco:nilReason="missing"/>
+                            <name>
+                                <gco:CharacterString>BUILDINGS.DGN</gco:CharacterString>
+                            </name>
+                            <function>
+                                <CI_OnLineFunctionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="download" codeSpace="ISOTC211/19115">download</CI_OnLineFunctionCode>
+                            </function>
+                        </CI_OnlineResource>
+                    </onLine>
+                </MD_DigitalTransferOptions>
+            </transferOptions>
+        </MD_Distribution>
+    </distributionInfo>
+</MD_Metadata>
