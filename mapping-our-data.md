@@ -12,7 +12,7 @@ nav_order: 4
 In this lesson, you will build on the skills gained during [lesson 1], to create a map that shows the outcome of our outdoor spaces assessment. 
 
 ## Task 0: Download our data set
-- Download our ```outdoor-space-data.csv``` file (as a zip file) using [this link](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/jasonbrodeur/SHAD-2023/blob/main/data/outdoor-space-data.csv) (or at [bit.ly/shad-2023-our-data](https://bit.ly/shad-2023-our-data)). This file is hosted on our [workshop GitHub repository](https://github.com/jasonbrodeur/SHAD-2023/blob/main/data/).
+- Download our ```outdoor-space-data.csv``` file (as a zip file) using [this link](https://jasonbrodeur.github.io/SHAD-mapping/data/outdoor-space-data.csv) (or at [bit.ly/shad-outdoor-space-data](https://bit.ly/shad-outdoor-space-data)). This file is hosted on our [workshop GitHub repository](https://github.com/jasonbrodeur/SHAD-mapping/blob/main/data/).
 - Download the data into the same working directory as the first exercise. 
 - **UNZIP THE FILE**. This is very important--otherwise, weird things are going to happen for you.   
 
