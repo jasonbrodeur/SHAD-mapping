@@ -58,7 +58,7 @@ To download the data:
 **Objective**: Here, you are going to select a neighbourhood of your choice and prepare it for exporting a map. 
 **Note**: If you get behind on the lesson or something goes wrong here, simply skip to Task 5 to catch up. 
 - Add all layers of interest. Ensure that you have added the ```Neighbourhoods``` layer to your map and that it is the topmost layer (drag or move it up).
-- Turn on labels for the ```Neighbourhoods``` layer.
+- Turn on labels for the ```Neighbourhoods``` layer and label it using the value of the "COMMUNITY" field.
 - Style the ```Neighbourhoods``` layer so that the areas are not filled (outline only). Use a thick border so that you can distinguish their boundaries.
 - Zoom to the approximate extent of your neighbourhood.
 - Select the other layers you would like to show and style them appropriately.
