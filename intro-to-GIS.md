@@ -58,7 +58,7 @@ To download the data:
 **Objective**: Here, you are going to select a neighbourhood of your choice and prepare it for exporting a map. 
 **Note**: If you get behind on the lesson or something goes wrong here, simply skip to Task 5 to catch up. 
 - Add all layers of interest. Ensure that you have added the ```Neighbourhoods``` layer to your map and that it is the topmost layer (drag or move it up).
-- Turn on labels for the ```Neighbourhoods``` layer and label it using the value of the "COMMUNITY" field.
+- Turn on labels for the ```Neighbourhoods``` layer and label it using the value of the "NEIGHBOURH" field.
 - Style the ```Neighbourhoods``` layer so that the areas are not filled (outline only). Use a thick border so that you can distinguish their boundaries.
 - Zoom to the approximate extent of your neighbourhood.
 - Select the other layers you would like to show and style them appropriately.
@@ -74,7 +74,7 @@ To download the data:
     - <img src="assets/img/difference.png" alt="Difference dialogue box" width="500">
     - Click Run. If done correctly, you should have a new layer called ```Difference``` at the top of your Layers list. The ```Difference``` layer should show all areas except your neighbourhood in a solid colour.
     - Deselect your neighbourhood by clicking the ```Deselect Features from all Layers``` button ![QGIS layer button icon](assets/img/unselect-features.png) from the top toolbar.
-    - Finally, choose a very dark colour (black, dark grey, dark blue, dark purple, etc.) for your ```Difference``` layer. this will help your neighbourhood stand out.
+    - Finally, choose a very dark colour (black, dark grey, dark blue, dark purple, etc.) or very light colour (e.g., white) for your ```Difference``` layer and change opacity to between 50 and 80%. This will wash out the surrounding neighbourhoods and help yours stand out.
 
 ## Task 5: Compose a map of your selected neighbourhood
 **Objective**: Create a map of your chosen Hamilton Neighbourhood.
@@ -87,7 +87,7 @@ To download the data:
 - With the map content selected, go to **Item Properties** and add a frame (if desired), a grid, or both.
 - See [this video](http://goo.gl/3yPkme) for some examples of how to style the map.  
 
-## Task 5: Annotate the map 
+## Task 6: Annotate the map 
 - Use the **Add New Labels** button to add any desired labels (Use the ```Item Properties``` tab to control font size, colour, and background)
 - Use the **Add North Arrow** button to add a North arrow
 	- With the north arrow selected, scale it to the right size
@@ -100,10 +100,10 @@ To download the data:
 	- Set units to Meters, and Label to “m” (if not already done for your map) 
 	- Select the desired number of segments,
 
-## Task 6: Export the map to an image file
+## Task 7: Export the map to an image file
 - In the map composer, use either the **Export as image** or **Export as PDF** buttons to export the map in the desired format to a desired directory. 
 
-## Task 7: Save your project file 
+## Task 8: Save your project file 
 - Click the **Save** button to save your changes. 
 
 **All done?** Let's move on to your [second lesson](mapping-our-data), where we will map our newly-collected data!
