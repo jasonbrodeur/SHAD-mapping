@@ -27,6 +27,7 @@ In this lesson, you will learn how to create and publish a webmap using QGIS and
 - Login to [GitHub](https://github.com).
 - Create a new repository. Add a readme file. Make it public. 
 <img src="assets/img/create-repo.png" alt="GitHub interface create new repository window" width="500" style="border: 1px solid darkgrey">
+
 - Upload your webmap files to the repository
 	- Click on the ```<> Code``` tab at the top of the repository.
 	- Click ```Add file > Upload files```
