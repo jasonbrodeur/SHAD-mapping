@@ -31,7 +31,7 @@ In this lesson, you will build on the skills gained during [lesson 1], to create
 - Add a web base map to your data frame: 
 	- In the top menu bar, click on ```Web > QuickMapServices```.
 	- Explore and add a base map of your liking. 
-Choose a web map for your base map (e.g. check out the OSM, Stamen, and CartoDB maps)
+Choose a web map for your base map (e.g. check out the OSM and CartoDB maps). Note that some maps (like Stamen) are no longer available and will not display.
 	- Be sure to right-click and ```Remove Layer``` for any layer you don't want to use. 
 
 ## Task 2: Add our data file, turn it into a spatial layer 
@@ -52,7 +52,7 @@ Choose a web map for your base map (e.g. check out the OSM, Stamen, and CartoDB 
 - In the **Value** dropdown, select a measure of interest (i.e. Suitability Score)
 - In the **Symbol** area, click the current symbol to change it. 
 	- In the symbol dialogue box, click the more options icon beside the **Size** setting. 
-	- Select ```Edit```. In the Expression box, enter ```"Num Seats" /40``` -- this will scale the size of the marker to the number of seats that are available at the location. 
+	- Select ```Edit```. In the Expression box, enter ```"Num Seats" /10``` -- this will scale the size of the marker to the number of seats that are available at the location. 
 	- Click OK
 - Select a Color ramp from the dropdown menu. Be thoughtful with your colour selection: think about what kind of message/sentiment do your selected colours convey. Is it aligned with what you're communicating in your map? 
 - Click ```Classify``` and observe that 5 classes are created. Click **Apply** to see the changes on the map.
