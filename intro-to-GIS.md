@@ -46,7 +46,7 @@ To download the data:
 	- If interested, experiment with the options in the **Formatting** tab.
 	- In the **Buffer** tab, check to turn on ```Draw text buffer```.
 	- In the **Rendering** tab, reduce the number of labels on the map by checking ```Merge connected lines to avoid duplicate labels```.
-- Use a rule to more finely control which road labels are shown: 
+- Use a rule to more finely control which road labels are shown and display only roads that are designated as 'Major' in the ROAD_TYPE column in the attribute table: 
 	- In the **Rendering** tab, go to the ```Data defined``` section and select the dropdown beside ```Show label```. In the dropdown, select ```Edit```
 	- <img src="assets/img/data-defined-label1.png" alt="Data-defined label box" width="200">
   	- In the ```Expression``` box of the **Expression String Builder** window, enter: ```ROAD_TYPE like 'Major'```. Click OK.
