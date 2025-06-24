@@ -33,6 +33,6 @@ By the end of today's workshop, you should be able to:
 |15:00 - 16:00|Creating a map; publishing a webmap|
 
 ## Today's slides
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRj_EYB6hDDCbUzLnzSUKup0QQlG7H9S9V8dKBWYv69_l-YCYo6yQMRSHtdKFjzUw/embed?start=false&loop=true&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRtClMNjw0nyIdJSm93E-nrKFnewdpeeXBgKpsogSuBUUTHPaDegrCqkujC_xN6XyuBGbUI4MYtVuAi/pubembed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 **Before we begin**, follow the instructions on the [preparation](preparation) page.
