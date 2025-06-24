@@ -7,7 +7,7 @@ nav_order: 1
 
 # Welcome to your SHAD Crowdsourcing and Digital Mapping workshop
 
-SHORTLINK TO THIS SITE: [bit.ly/shad-mapping](https://bit.ly/shad-mapping).
+SHORTLINK TO THIS SITE: [bit.ly/shad-mapping-exercise](https://bit.ly/shad-mapping-exercise).
 
 Hello! During today's workshop, you'll work with your fellow SHADs to gather, synthesize, and spatially analyze data that will help answer the question: ***How 'livable' are McMaster's outdoor spaces for McMaster members?*** Throughout today, we'll explore this question and its connection to the concepts of sustainability, accessibility, and community.
 
