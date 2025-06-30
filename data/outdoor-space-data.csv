@@ -16,7 +16,7 @@ FID,Group ID,Short Description,Shade?,Wifi available?,Shelter,Distance to washro
 14,03-02,Communication research lab entrance area,1,1,1,2,2,1,3,3,4,43.25912,-79.91966,6.75
 15,03-03,Health science entrance seating area,1,1,1,2,3,1,12,3,4,43.2593,-79.92063,7
 16,03-04,Engineering rocks,0,1,0,2,2,1,17,2,3,43.25891,-79.92009,4.75
-17,03-05,Engineering benches,,1,2,2,2,1,6,1,4,43.25872,-79.92024,5.75
+17,03-05,Engineering benches,0,1,2,2,2,1,6,1,4,43.25872,-79.92024,5.75
 18,03-06,Parking lot seating area,1,1,1,2,2,1,8,2,4,43.2583,-79.92012,6.5
 19,03-07,Bench row,1,1,0,2,2,1,12,2,4,43.25863,-79.92026,6
 20,03-08,Open grassy area,1,1,1,2,3,1,1,4,4,43.25926,-79.92132,7.25
