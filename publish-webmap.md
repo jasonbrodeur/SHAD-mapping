@@ -13,7 +13,7 @@ In this lesson, you will learn how to create and publish a webmap using QGIS and
 
 ## Task 0: Get ready
 - Make sure that you have your project from the [last lesson](mapping-our-data) open. 
-- Also make sure you have installed the **qgis2web** plugin for QGIS. 
+- Also make sure you have installed the **qgis2web** plugin for QGIS ([instructions](https://jasonbrodeur.github.io/SHAD-mapping/preparation.html#13-install-plugins)). 
 
 ## Task 1: Create a webmap
 - With your previous project open, click the **Create web map** button (also available from the top menu: ```Web > qgis2web > Create web map```. 
@@ -23,15 +23,16 @@ In this lesson, you will learn how to create and publish a webmap using QGIS and
 - At the bottom of the dialog box, select to save your map to a **Leaflet** map and click **Export**. 
 - This should open up a version of the webmap in your browser. **NOTE** that this is map not publicly accessible -- it is just a file on your computer and is not published to the web. 
 
-## Task 2: Create a GitHub Repository; Publish your webmap
-- Login to [GitHub](https://github.com).
-- Create a new repository. Add a readme file. Make it public. 
+## Task 2 (optional): Create a GitHub Repository | Publish your webmap
+In this last (and completely optional) section, you can publish your webmap to the web using GitHub Pages. [GitHub](https://github.com/) is a free-to-use platform that lets people track changes on projects, collaborate with others, and share their contents with others. While it is used heavily for managing software development projects, it is also used to host data, books, and websites. While GitHub is free-to-use, you need to create an account to use it. For this reason, the following exercise is considered optional. 
+- Create an account (if you don't already have one) and login to [GitHub](https://github.com).
+- Create a new repository. Add a readme file. Set the privacy to public. 
 <img src="assets/img/create-repo.png" alt="GitHub interface create new repository window" width="500" style="border: 1px solid darkgrey">
 
 - Upload your webmap files to the repository
-	- Click on the ```<> Code``` tab at the top of the repository.
+	- Click on the ```<> Code``` tab at the top of the new GitHub repository.
 	- Click ```Add file > Upload files```
-	- Drag the contents of your leaflet folder (i.e. everything inside of /qgis2web_2023_07_15......) to the upload window. 
+	- Drag the contents of your leaflet folder (i.e. everything inside of /qgis2web_2025_07_09/ that was created in part 1 of this exercise) to the upload window. 
 	- Once the files have finished loading, scroll to the bottom and click **Commit changes**.
 	- You should see your files in your repository as follows:
 	
