@@ -17,6 +17,7 @@ QGIS can be downloaded and used on Windows, MacOS, and Linux machines, though th
 
 ### 1.2 Confirm QGIS is working 
 On your computer, open **QGIS Desktop**. If the application loads properly, you should see a default QGIS interface similar to what is shown below: 
+
 <img src="assets/img/qgis-interface.png" alt="QGIS Desktop interface" width="600" style="border: 1px solid darkgrey">
 
 ### 1.3 Install plugins
