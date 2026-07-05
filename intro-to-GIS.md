@@ -19,7 +19,7 @@ To download the data:
 
 ## Task 1: Learn the interface; Add and explore data
 **Objective**: Explore the user interface 
-- Open QGIS. 
+- On your computer, open **QGIS Desktop**. 
 - Follow along with Jay and John as they introduce the important buttons and panels of the QGIS interface. 
 - Go to ```Project>Properties``` and set your project Coordinate Reference System (CRS) to ```NAD83 / UTM zone 17N [EPSG:26917]```. 
 	- Check the box to “Enable on-the-fly CRS transformation”
