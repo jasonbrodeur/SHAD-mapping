@@ -13,9 +13,9 @@ Hello! During today's workshop, you'll work with your fellow SHADs to gather, sy
 
 ## Learning objectives
 By the end of today's workshop, you should be able to: 
-- Describe the topic of sustainability and its various facets; explain the connections between facets.
-- Apply the tools used today to coordinate a crowdsourcing campaign
-- Explain the importance of tidy data
+- Apply the tools used today to coordinate a crowdsourcing campaign.
+- Describe and apply the principles of digital mapping to create effective maps.
+- Explain the importance of tidy data.
 - Use GIS software to perform spatial analyses and create static and web maps.  
 
 ## Today's schedule
@@ -23,7 +23,7 @@ By the end of today's workshop, you should be able to:
 |Time|Activity|
 |:---|:---|
 |9:30 - 9:40|Welcome|
-|9:40 - 10:20|Introduction to Sustainability|
+|9:40 - 10:20|Introduction to Digital Mapping|
 |10:20 - 10:30|Field work preparation|
 |10:30 - 11:45|Field work|
 |11:50 - 13:00|**LUNCH**|
