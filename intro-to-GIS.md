@@ -7,7 +7,7 @@ nav_order: 3
 *Before starting this section, make sure you've completed all tasks in the [Preparation](preparation) page.*
 
 # Lesson 1: Intro to GIS
-In this first lesson, you will get a quick introduction to the QGIS interface. QGIS is the world's most popular open source GIS software. It is incredibly powerful and can do all sorts of interesting visualizations and analyses. The primary challenge with this much functionality is that you have to learn what the buttons do and understand the terminology. We'll work on that here. 
+In this first lesson, you will get a quick introduction to the QGIS interface. QGIS is the world's most popular open source GIS software. It is incredibly powerful and can do all sorts of interesting visualizations and analyses. The primary challenge with this much functionality is that you have to learn what the buttons do and understand the terminology. We'll work on that here. As your output, you'll create a map of the McMaster University area.
 
 ## Task 0: Download your data  
 In this exercise, we'll learn how to use QGIS by using data that is available from the City of Hamilton [Open Data Portal](https://www.hamilton.ca/city-council/data-maps/open-data). The open data portal has a wide variety of numeric and geospatial data sets that are free and open to use. Many cities and regions now have similar kinds of open data portals, so be sure to check if you're ever doing analyses on your local area!
@@ -54,6 +54,15 @@ To download the data:
   	- Note that the labels are now only applied to major roads. 
 	- Keep this setting, or remove it by re-clicking the dropdown and selecting ```Clear```.
 
+## Task 4: Find McMaster University
+- Load the `Educational Institutions` layer (if you haven't already)
+- In the Layers panel, right click the `Educational Institutions` layer and select `Open Attribute Table`.
+- In the attribute table, find `McMaster University` in the NAME field (its Object ID is 143).
+- Click the row number (143) to highlight the row with McMaster University listed.
+- On the attribute table toolbar, click "Zoom map to selected rows", as shown below:
+	- <img src="assets/img/zoom-to-row.png" alt="Attribute table" width="500">
+
+<!--
 ## Task 4: Identify a Hamilton neighbourhood to map
 **Objective**: Here, you are going to select a neighbourhood of your choice and prepare it for exporting a map. 
 **Note**: If you get behind on the lesson or something goes wrong here, simply skip to Task 5 to catch up. 
@@ -75,10 +84,12 @@ To download the data:
     - Click Run. If done correctly, you should have a new layer called ```Difference``` at the top of your Layers list. The ```Difference``` layer should show all areas except your neighbourhood in a solid colour.
     - Deselect your neighbourhood by clicking the ```Deselect Features from all Layers``` button ![QGIS layer button icon](assets/img/unselect-features.png) from the top toolbar.
     - Finally, choose a very dark colour (black, dark grey, dark blue, dark purple, etc.) or very light colour (e.g., white) for your ```Difference``` layer and change opacity to between 50 and 80%. This will wash out the surrounding neighbourhoods and help yours stand out.
+-->
 
-## Task 5: Compose a map of your selected neighbourhood
-**Objective**: Create a map of your chosen Hamilton Neighbourhood.
+## Task 5: Compose a map of the McMaster University Area
+**Objective**: Create a map of the McMaster University area.
 - Zoom the main data frame to the approximate desired extents for your map.
+- Add all desired layers (Streets and Buildings should be added, at a minimum).
 - Click on the **New Print Layout** button to open the map creation window. 
 	- Give your map a name when the dialogue box comes up. 
 - In the map composer, add the critical elements of a map: 
