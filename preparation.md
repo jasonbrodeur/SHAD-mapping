@@ -26,11 +26,11 @@ As an open-source project, QGIS has a lot of community-contributed plugins that 
 	- In the top menu bar, click on `Plugins > Manage and Install Plugins`.
 	- In the Plugins dialogue box, search for and install the **NextGIS QuickMapServices** plugin. 
 	- <img src="assets/img/quickmap-plugin.png" alt="QGIS Plugin window" width="500" style="border: 1px solid darkgrey">
-  - Confirm that the plugin works:
+2. Confirm that the plugin works:
     - In the QGIS top menu bar, click on `Web > QuickMapServices`
     - Select to load the OSM Standard webmap by clicking on `OpenStreetMap > OSM Standard`.
     - The OpenStreetMap layer should load so you can zoom into/out of it.
-2. Install the qgis2web plugin:
+3. Install the qgis2web plugin:
   - In the top menu bar, click on `Plugins > Manage and Install Plugins`.
 	- In the Plugins dialogue box, search for and install the **qgis2web** plugin.
 
