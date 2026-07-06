@@ -19,7 +19,7 @@ In this lesson, you will build on the skills gained during [lesson 1], to create
 ## Task 1: Open a new project, add a plugin and a web base map
 For this exercise, we want to add a web map as a base map upon which to show our data. To do this, we'll use the `NextGIS QuickMapServices` plugin for QGIS.  
 
-**NOTE:** The following exercises require the `NextGIS QuickMapServices` and `qgis2web` plugins to be installed, as instructed in the [Preparation](/preparation) section of this lesson. If you have not installed them, do so now and then return to these instructions. 
+**NOTE:** The following exercises require the `NextGIS QuickMapServices` and `qgis2web` plugins to be installed, as instructed in the [Preparation](preparation) section of this lesson. If you have not installed them, do so now and then return to these instructions. 
 
 - Open a new project. Set the project CRS to ```EPSG 3857: WGS84 - Pseudo Mercator projection```
 <!--
