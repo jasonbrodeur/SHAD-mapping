@@ -31,7 +31,7 @@ As an open-source project, QGIS has a lot of community-contributed plugins that 
     - Select to load the OSM Standard webmap by clicking on `OpenStreetMap > OSM Standard`.
     - The OpenStreetMap layer should load so you can zoom into/out of it.
 3. Install the qgis2web plugin:
-  - In the top menu bar, click on `Plugins > Manage and Install Plugins`.
+ 	- In the top menu bar, click on `Plugins > Manage and Install Plugins`.
 	- In the Plugins dialogue box, search for and install the **qgis2web** plugin.
 
 <!--
