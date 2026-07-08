@@ -13,7 +13,7 @@ Prior to the workshop, please do the following:
 In this workshop, we will work with QGIS **version 3.44 LTR (Long-term release)** (please note the version). 
 
 ### 1.1 Download and install QGIS
-QGIS can be downloaded and used on Windows, MacOS, and Linux machines, though the installation instructions differ slightly between operating systems. To download it for your operating system, go [here] and follow the installation instructions. **Please do not** install the tablet/phone version for this exercise--these are limited-feature versions of the software and they will not work for our exercises. 
+QGIS can be downloaded and used on Windows, MacOS, and Linux machines, though the installation instructions differ slightly between operating systems. To download it for your operating system, go [here](https://qgis.org/download/) and follow the installation instructions. **Please do not** install the tablet/phone version for this exercise--these are limited-feature versions of the software and they will not work for our exercises. 
 
 ### 1.2 Confirm QGIS is working 
 On your computer, open **QGIS Desktop**. If the application loads properly, you should see a default QGIS interface similar to what is shown below: 
