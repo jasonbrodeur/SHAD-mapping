@@ -34,6 +34,14 @@ As an open-source project, QGIS has a lot of community-contributed plugins that 
  	- In the top menu bar, click on `Plugins > Manage and Install Plugins`.
 	- In the Plugins dialogue box, search for and install the **qgis2web** plugin.
 
+# 2. Download workshop data
+In this workshop, we'll learn how to use QGIS by using data that is available from the City of Hamilton [Open Data Portal](https://www.hamilton.ca/city-council/data-maps/open-data). The open data portal has a wide variety of numeric and geospatial data sets that are free and open to use. Many cities and regions now have similar kinds of open data portals, so be sure to check if you're ever doing analyses on your local area!
+
+To download the data: 
+- Download ```hamilton-data.zip``` from the [workshop GitHub repository](https://github.com/jasonbrodeur/SHAD-mapping/blob/main/data/hamilton-data.zip) by clicking [this link](https://github.com/jasonbrodeur/SHAD-mapping/raw/main/data/hamilton-data.zip) to download it directly [(bit.ly/shad-ham-data)](https://bit.ly/shad-ham-data).
+- Download the data into the directory that you want to use for this workshop (i.e. know where you saved the file and use a folder where you can read/write data)
+- **UNZIP THE FILE**. This is very important--otherwise, weird things are going to happen for you.   
+
 <!--
 ## 2. (Optional) Sign up for a GitHub account
 If you would like to publish to the webmap we'll create in this exercise Go to [https://github.com/](https://github.com/) and sign up for an account. Sign into your account prior to the workshop.
