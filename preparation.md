@@ -34,7 +34,7 @@ As an open-source project, QGIS has a lot of community-contributed plugins that 
  	- In the top menu bar, click on `Plugins > Manage and Install Plugins`.
 	- In the Plugins dialogue box, search for and install the **qgis2web** plugin.
 
-# 2. Download workshop data
+## 2. Download workshop data
 In this workshop, we'll learn how to use QGIS by using data that is available from the City of Hamilton [Open Data Portal](https://www.hamilton.ca/city-council/data-maps/open-data). The open data portal has a wide variety of numeric and geospatial data sets that are free and open to use. Many cities and regions now have similar kinds of open data portals, so be sure to check if you're ever doing analyses on your local area!
 
 To download the data: 
