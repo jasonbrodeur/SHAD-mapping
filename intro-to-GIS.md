@@ -9,7 +9,8 @@ nav_order: 3
 # Lesson 1: Intro to GIS
 In this first lesson, you will get a quick introduction to the QGIS interface. QGIS is the world's most popular open source GIS software. It is incredibly powerful and can do all sorts of interesting visualizations and analyses. The primary challenge with this much functionality is that you have to learn what the buttons do and understand the terminology. We'll work on that here. As your output, you'll create a map of the McMaster University area.
 
-## Task 0: Download your data  
+## Task 0: Download your data (if you have not already)
+**Complete this if not already done as part of the [Preparation](preparation) step.**
 In this exercise, we'll learn how to use QGIS by using data that is available from the City of Hamilton [Open Data Portal](https://www.hamilton.ca/city-council/data-maps/open-data). The open data portal has a wide variety of numeric and geospatial data sets that are free and open to use. Many cities and regions now have similar kinds of open data portals, so be sure to check if you're ever doing analyses on your local area!
 
 To download the data: 
