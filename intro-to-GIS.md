@@ -102,6 +102,18 @@ To download the data:
 ### Standard map elements
 <img src="assets/img/map-elements.png" alt="Map with standard elements labeled" width="500">  
 
+| Map Element | Description |
+| :--- | :--- |
+| Data | The core visual content and features of the map, representing the real-world information being conveyed. |
+| Title | A clear, concise heading that tells the reader what the map is about, where it is located, and the time period it represents. |
+| Frame/Neatline | A border that encapsulates the map elements, defining the map's extent and keeping the layout organized. |
+| Scale | A graphical, numerical, or textual relationship between distances on the map and the actual distances on the ground. |
+| Legend | A key that explains the meaning of the symbols, colors, and patterns used throughout the map. |
+| North Arrow | A directional indicator that orientats the map, often pointing toward true north. |
+| Source Information | A citation that credits the origin of the data used to create the map for transparency and credibility. |
+| Author, date, projection, ©, etc. | Metadata that indicates accountability and technical context, including who made the map, when it was created, how the Earth's surface was flattened, and legal copyright ownership. |
+
+<!--
 - **Data**: The core visual content and features of the map, representing the real-world information being conveyed.
 - **Title**: A clear, concise heading that tells the reader what the map is about, where it is located, and the time period it represents.
 - **Frame/Neatline**: A border that encapsulates the map elements, defining the map's extent and keeping the layout organized.
@@ -110,6 +122,7 @@ To download the data:
 - **North Arrow**: A directional indicator that orientats the map, often pointing toward true north.
 - **Source Information**: A citation that credits the origin of the data used to create the map for transparency and credibility.
 - **Author, date, projection, ©, etc.**: Metadata that indicates accountability and technical context, including who made the map, when it was created, how the Earth's surface was flattened, and legal copyright ownership.
+--> 
 
 ## Task 6: Annotate the map 
 - Use the **Add New Labels** button to add any desired labels (Use the ```Item Properties``` tab to control font size, colour, and background)
