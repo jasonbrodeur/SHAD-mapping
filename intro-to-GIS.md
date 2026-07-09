@@ -101,6 +101,7 @@ To download the data:
 
 ### Standard map elements
 <img src="assets/img/map-elements.png" alt="Map with standard elements labeled" width="500">  
+
 - **Data**: The core visual content and features of the map, representing the real-world information being conveyed.
 - **Title**: A clear, concise heading that tells the reader what the map is about, where it is located, and the time period it represents.
 - **Frame/Neatline**: A border that encapsulates the map elements, defining the map's extent and keeping the layout organized.
