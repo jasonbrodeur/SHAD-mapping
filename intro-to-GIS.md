@@ -21,7 +21,7 @@ To download the data:
 ## Task 1: Learn the interface; Add and explore data
 **Objective**: Explore the user interface 
 - On your computer, open **QGIS Desktop**. 
-- Follow along with Jay and John as they introduce the important buttons and panels of the QGIS interface. 
+- Follow along with Jay's introduction to the important buttons and panels of the QGIS interface. 
 - Go to ```Project>Properties``` and set your project Coordinate Reference System (CRS) to ```NAD83 / UTM zone 17N [EPSG:26917]```. 
 	- Check the box to “Enable on-the-fly CRS transformation”
 - Find your downloaded and unzipped data using the **Browser panel**.
@@ -98,6 +98,17 @@ To download the data:
 	- Use the **Move Item Content* button to change the extent and zoom. Click “Update Preview” in the “Main Properties” box to regenerate preview.
 - With the map content selected, go to **Item Properties** and add a frame (if desired), a grid, or both.
 - See [this video](http://goo.gl/3yPkme) for some examples of how to style the map.  
+
+### Standard map elements
+<img src="assets/img/map-elements" alt="Difference dialogue box" width="500">  
+- **Data**: The core visual content and features of the map, representing the real-world information being conveyed.
+- **Title**: A clear, concise heading that tells the reader what the map is about, where it is located, and the time period it represents.
+- **Frame/Neatline**: A border that encapsulates the map elements, defining the map's extent and keeping the layout organized.
+- **Scale**: A graphical, numerical, or textual relationship between distances on the map and the actual distances on the ground.
+- **Legend**: A key that explains the meaning of the symbols, colors, and patterns used throughout the map.
+- **North Arrow**: A directional indicator that orientats the map, often pointing toward true north.
+- **Source Information**: A citation that credits the origin of the data used to create the map for transparency and credibility.
+- **Author, date, projection, ©, etc.**: Metadata that indicates accountability and technical context, including who made the map, when it was created, how the Earth's surface was flattened, and legal copyright ownership.
 
 ## Task 6: Annotate the map 
 - Use the **Add New Labels** button to add any desired labels (Use the ```Item Properties``` tab to control font size, colour, and background)
